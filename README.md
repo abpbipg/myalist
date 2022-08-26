@@ -1,4 +1,4 @@
-# This is my alistweb
-### 文件有密码的就是私人文件
-### 其他都能访问
-# 域名 alist.shut.ga  alist.kooldns.cn
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+my+alistweb" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A5F735&background=FF170100&width=435&lines=%E6%96%87%E4%BB%B6%E6%9C%89%E5%AF%86%E7%A0%81%E7%9A%84%E5%B0%B1%E6%98%AF%E7%A7%81%E4%BA%BA%E6%96%87%E4%BB%B6" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F7F5&background=405CFF00&width=435&lines=%E5%85%B6%E4%BB%96%E9%83%BD%E8%83%BD%E8%AE%BF%E9%97%AE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=416DF7&background=FF1F6500&width=435&lines=%E5%9F%9F%E5%90%8D+alist.shut.ga++alist.kooldns.cn" alt="Typing SVG" /></a>
